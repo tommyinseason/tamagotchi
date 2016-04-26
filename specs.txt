@@ -1,0 +1,11 @@
+1. Tamagotchi instantiates correctly.
+2. Check the name is working.
+3. Check that food level is working.
+4. Check that sleep level is working.
+5. Check that activity level is working.
+6. Check that food level impacts the activity and sleep level.
+7. Sleep level impacts the food and activity.
+8. Activity level impacts food and sleep.
+
+If we feel like it .
+9. Add a button that each click counts for levels over 24hrs.
