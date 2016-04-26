@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TamagotchiTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-26T21:34:24" hostname="epicodus-59.local" time="0.001">
+<testsuite name="TamagotchiTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-04-26T23:32:52" hostname="epicodus-59.local" time="0.002">
   <properties/>
-  <testcase name="tamagotch_getFoodLevel_Integer" classname="TamagotchiTest" time="0.001"/>
-  <testcase name="tamagotchi_instantiatesCorrectly_true" classname="TamagotchiTest" time="0.0"/>
-  <testcase name="tamagotchi_getName_String" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="tamagotchi_instantiatesCorrectly_true" classname="TamagotchiTest" time="0.001"/>
+  <testcase name="tamagotchi_getName_String" classname="TamagotchiTest" time="0.001"/>
+  <testcase name="tamagotchi_getFoodLevel_int" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="tamagotchi_totalHealth_int" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="tamagotchi_clickFeed_int" classname="TamagotchiTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
