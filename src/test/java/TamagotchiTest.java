@@ -8,4 +8,9 @@ public class TamagotchiTest {
     Tamagotchi myPet = new Tamagotchi("lil dragon");
     assertEquals(true, myPet instanceof Tamagotchi);
   }
+  @Test
+  public void tamagotchi_getName_String() {
+    Tamagotchi myPet = new Tamagotchi("lil dragon");
+    assertEquals("lil dragon", myPet.getName());
+  }
 }
