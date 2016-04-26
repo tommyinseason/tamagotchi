@@ -13,4 +13,9 @@ public class TamagotchiTest {
     Tamagotchi myPet = new Tamagotchi("lil dragon");
     assertEquals("lil dragon", myPet.getName());
   }
+  @Test
+  public void tamagotch_getFoodLevel_Integer() {
+    Tamagotchi myPet = new Tamagotchi(10);
+    assertEquals(10, myPet.getFood());
+  }
 }
